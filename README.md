@@ -1,8 +1,9 @@
-# Ứng dụng Desktop Coloring Puzzle
+# Ứng dụng Desktop Coloring Puzzle/ Fill-a-Pix
+
 ## Install environments
 **Công cụ (Tool):**<br>
-* Jupyter Notebook
+* Visual Studio Code / Jupyter Notebook
 * Tkinter
 
 **Ngôn ngữ (Language):**<br>
-* Swift
+* Python

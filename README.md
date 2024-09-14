@@ -10,5 +10,5 @@
 **Ngôn ngữ (Language):**<br>
 * Python
 
-# Tham khảo thêm bài có độ hoàn thiện về giao diện như yêu cầu
+# Tham khảo thêm code giao diện đạt như yêu cầu
 https://github.com/anhle199/Coloring-Puzzle-AI

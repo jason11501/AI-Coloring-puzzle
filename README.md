@@ -2,6 +2,8 @@
 # Cơ sở trí tuệ nhân tạo
 # Độ hoàn thiện 90%
 
+searching data structure such as Graph
+
 ## Install environments
 **Công cụ (Tool):**<br>
 * Visual Studio Code / Jupyter Notebook

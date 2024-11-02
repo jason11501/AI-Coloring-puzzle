@@ -12,5 +12,9 @@ searching data structure such as Graph
 **Ngôn ngữ (Language):**<br>
 * Python
 
+**Library**<br>
+* tkinter
+
+  
 # Tham khảo thêm code giao diện đạt như yêu cầu
 https://github.com/anhle199/Coloring-Puzzle-AI
